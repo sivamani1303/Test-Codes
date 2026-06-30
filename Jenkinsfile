@@ -3,7 +3,7 @@ pipeline {
     stages {
         stage('Hello') {
             steps {
-                echo 'Test 1'
+                echo 'This is main repo'
             }
         }
     }
